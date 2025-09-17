@@ -1,0 +1,9 @@
+# Also ignore these in root (standard exclusions)
+node_modules/
+.env
+npm-debug.log*
+
+# Ignore build output
+templates/dist
+templates/.env
+templates/node_modules
