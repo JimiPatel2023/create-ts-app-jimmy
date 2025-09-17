@@ -1,18 +1,22 @@
 {
     "name": "create-ts-app-jimmy",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "description": "TypeScript project boilerplate",
     "bin": {
-      "my-ts-boilerplate": "./bin/cli.js"
+        "my-ts-boilerplate": "./bin/cli.js"
     },
-    "keywords": ["typescript", "boilerplate", "template"],
+    "keywords": [
+        "typescript",
+        "boilerplate",
+        "template"
+    ],
     "author": "Jimmy",
     "license": "MIT",
     "repository": {
-      "type": "git",
-      "url": "https://github.com/JimiPatel2023/create-ts-app-jimmy.git"
+        "type": "git",
+        "url": "https://github.com/JimiPatel2023/create-ts-app-jimmy.git"
     },
     "dependencies": {
-      "fs-extra": "^11.0.0"
+        "fs-extra": "^11.0.0"
     }
-  }
+}
